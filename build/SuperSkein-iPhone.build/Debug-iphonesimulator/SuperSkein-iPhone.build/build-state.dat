@@ -1,0 +1,659 @@
+TSuperSkein-iPhone
+v7
+r0
+t302997642.237866
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/Info.plist" SuperSkein_iPhone-Info.plist
+cCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib"
+cCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib"
+cCpResource build/Debug-iphonesimulator/SuperSkein-iPhone.app/DNAmodel.stl DNAmodel.stl
+cCpResource build/Debug-iphonesimulator/SuperSkein-iPhone.app/basic-whistle.stl basic-whistle.stl
+cProcessPCH /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch.gch SuperSkein_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/main.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneAppDelegate.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneViewController.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Mesh.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Triangle.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Line2D.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Everything.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Slice.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/ChooseFileController.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone" normal i386
+cGenerateDSYMFile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone"
+cTouch "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C45C1AF0000000000000132
+t1279639983
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.h
+c000000004C5F0DF60000000000000112
+t1281297910
+s274
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m
+c000000004C5F28FA00000000000006AC
+t1281304826
+s1708
+i"ChooseFileController.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.h
+c000000004C586F6500000000000000F8
+t1280864101
+s248
+i<Foundation/Foundation.h>
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m
+c000000004C586F5C0000000000000297
+t1280864092
+s663
+i"Everything.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/FilePicker.xib
+c000000004C5F0BE90000000000001BA2
+t1281297385
+s7074
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.h
+c000000004C586F6F00000000000001A6
+t1280864111
+s422
+i<Foundation/Foundation.h>
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m
+c000000004C586F7C000000000000048A
+t1280864124
+s1162
+i"Line2D.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.h
+c000000004C5A15C1000000000000022E
+t1280972225
+s558
+i<Foundation/Foundation.h>
+i"Triangle.h"
+i"Everything.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m
+c000000004C5F260F0000000000000957
+t1281304079
+s2391
+i"Mesh.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h
+c000000004C5A12400000000000000164
+t1280971328
+s356
+i<Foundation/Foundation.h>
+i"Mesh.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m
+c000000004C5A11730000000000000A43
+t1280971123
+s2627
+i"Slice.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.h
+c000000004C586FB900000000000001DA
+t1280864185
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m
+c000000004C586FC00000000000000A7C
+t1280864192
+s2684
+i"SuperSkein_iPhoneAppDelegate.h"
+i"SuperSkein_iPhoneViewController.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.h
+c000000004C5F27A200000000000003BB
+t1281304482
+s955
+i<UIKit/UIKit.h>
+i"Slice.h"
+i"Mesh.h"
+i"Triangle.h"
+i"Line2D.h"
+i"Everything.h"
+i"ChooseFileController.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m
+c000000004C5F27840000000000001AD2
+t1281304452
+s6866
+i"SuperSkein_iPhoneViewController.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.h
+c000000004C586F850000000000000261
+t1280864133
+s609
+i<Foundation/Foundation.h>
+i"Line2D.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m
+c000000004C586F8E0000000000000E44
+t1280864142
+s3652
+i"Triangle.h"
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/DNAmodel.stl
+c000000004C326FEB0000000000071E98
+t1278373867
+s466584
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/FilePicker.xib
+c000000004C5F0C50000000000000183A
+t1281297488
+s6202
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib
+c000000004C5480510000000000004EA1
+t1280606289
+s20129
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib
+c000000004C5F22A60000000000011644
+t1281303206
+s71236
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone_Prefix.pch
+c000000004C54805100000000000000CB
+t1280606289
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/basic-whistle.stl
+c000000004B64662C0000000000008074
+t1264870956
+s32884
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app
+t1281304842
+s306
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM
+t1281304842
+s102
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/DNAmodel.stl
+t1280714195
+s466584
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/FilePicker.nib
+t2
+s0
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/Info.plist
+t1281296862
+s667
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/MainWindow.nib
+t1280692363
+s1143
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/PkgInfo
+t1281296862
+s8
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone
+t1281304842
+s67724
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein_iPhoneViewController.nib
+t1281304414
+s6325
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/basic-whistle.stl
+t1280716503
+s32884
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/ChooseFileController.o
+t1281304842
+s40548
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Everything.o
+t1280968400
+s6572
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Line2D.o
+t1280968399
+s11900
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Mesh.o
+t1281304415
+s23812
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Slice.o
+t1280972240
+s13036
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein-iPhone.LinkFileList
+c000000004C5F09DE00000000000005DE
+t1281296862
+s1502
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneAppDelegate.o
+t1281304841
+s50848
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneViewController.o
+t1281304842
+s63384
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Triangle.o
+t1280968399
+s35468
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/main.o
+t1280968399
+s6336
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Everything.plist
+t1280704667
+s276
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Line2D.plist
+t2
+s0
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Mesh.plist
+t2
+s0
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Slice.plist
+t1280704667
+s12986
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/SuperSkein_iPhoneAppDelegate.plist
+t1280704667
+s276
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/SuperSkein_iPhoneViewController.plist
+t1280704667
+s1736
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Triangle.plist
+t1280704667
+s23071
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/main.plist
+t1280692371
+s276
+
+N/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m
+c000000004C586FE00000000000000132
+t1280864224
+s306
+i<UIKit/UIKit.h>
+
+N/var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch.pth
+t1280692369
+s2690500
+
+N/var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch.gch
+t1280692370
+s15232016
+
+NSuperSkein_iPhone-Info.plist
+c000000004C5F299A000000000000038E
+t1281304986
+s910
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m"
+s302397467.651961
+e302397467.698900
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m
+lSLF07#2@83"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m302397467#302397467#0(0"0(0#0#75"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m8599247936#2328"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Everything.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m"
+s302397467.577311
+e302397467.651861
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m:9:
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.h:10:
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h:10:
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.h:11:
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.h:25:4: error: expected a type
+o - (Line2D*)getZIntersectWithLevel:(float)ZLevel;
+o    ^
+o1 error generated.
+lSLF07#2@79"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m302397467#302397467#0(566"In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m:9:In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.h:10:In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h:10:In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.h:11:/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.h:25:4: error: expected a type - (Line2D*)getZIntersectWithLevel:(float)ZLevel;    ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors302397467#18446744073709551615#0#1(25@15"expected a type302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.h302390345#25#0#25#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.h302390345#0#0#0#0#0"0(0#0#71"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m8601153152#2320"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Line2D.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m"
+s302397467.534649
+e302397467.577214
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m:9:
+oIn file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.h:10:
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h:19:21: error: expected a type
+o - (id)initWithMesh:(Mesh*)theMesh andZLevel:(float)ZLevel;
+o                     ^
+o1 error generated.
+lSLF07#2@77"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m302397467#302397467#0(394"In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m:9:In file included from /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.h:10:/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h:19:21: error: expected a type - (id)initWithMesh:(Mesh*)theMesh andZLevel:(float)ZLevel;                     ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors302397467#18446744073709551615#0#1(25@15"expected a type302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h302393998#19#0#19#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.h302393998#0#0#0#0#0"0(0#0#69"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m8603428032#2316"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Mesh.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m"
+s302397467.695272
+e302397467.756995
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:34:2:{34:17-34:22}: warning: Value stored to 'min_dflipped' is never read
+o         min_dflipped = 10000;
+o         ^              ~~~~~
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:33:2:{33:10-33:15}: warning: Value stored to 'min_d' is never read
+o         min_d = 10000;
+o         ^       ~~~~~
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:20:18: warning: Potential leak of an object allocated on line 20
+o         unsortedLines = [[NSMutableArray alloc] initWithCapacity:1];
+o                         ^
+o3 warnings generated.
+lSLF07#2@78"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302397467#302397467#0(646"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:34:2:{34:17-34:22}: warning: Value stored to 'min_dflipped' is never read         min_dflipped = 10000;         ^              ~~~~~/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:33:2:{33:10-33:15}: warning: Value stored to 'min_d' is never read         min_d = 10000;         ^       ~~~~~/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m:20:18: warning: Potential leak of an object allocated on line 20         unsortedLines = [[NSMutableArray alloc] initWithCapacity:1];                         ^3 warnings generated.3(0@37"Value stored to 'min_d' is never read302397467#18446744073709551615#0#1(21@37"Value stored to 'min_d' is never read302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#33#2#0#0#0"1(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#33#10#33#14#37"Value stored to 'min_d' is never read6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#33#2#0#0#10"Dead store0(15"Dead assignment0@44"Value stored to 'min_dflipped' is never read302397467#18446744073709551615#0#1(21@44"Value stored to 'min_dflipped' is never read302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#34#2#0#0#0"1(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#34#17#34#21#44"Value stored to 'min_dflipped' is never read6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#34#2#0#0#10"Dead store0(15"Dead assignment0@48"Potential leak of an object allocated on line 20302397467#18446744073709551615#0#10(17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#17#2#17#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#17#6#17#6#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#17#6#17#6#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#18#2#18#2#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#18#2#18#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#2#20#2#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#2#20#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#18#20#60#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#18#0#0#0"1(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#18#20#60#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#20#18#20#60#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#22#2#22#2#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#22#2#22#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#28#2#28#2#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#28#2#28#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#36#2#36#2#17@0"302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#0"0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#0#0#0#0#1(3@6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#36#2#36#2#6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#64#2#64#7#21@113"Object allocated on line 20 is no longer referenced after this point and has a retain count of +1 (object leaked)302397467#18446744073709551615#0#0(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#64#2#0#0#0"1(6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#64#2#64#7#113"Object allocated on line 20 is no longer referenced after this point and has a retain count of +1 (object leaked)6@70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302390955#64#2#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m8607242592#2318"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Slice.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m"
+s302397467.194335
+e302397467.534549
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m
+lSLF07#2@101"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m302397467#302397467#0(0"0(0#0#93"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m8604202080#2364"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/SuperSkein_iPhoneAppDelegate.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m"
+s302397467.201360
+e302397467.560297
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m:58:8:{58:17-58:43}: warning: Value stored to 'Layers' during its initialization is never read
+o         float Layers = STLFile.bz2/layerThickness;
+o               ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF07#2@104"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m302397467#302397467#0(315"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m:58:8:{58:17-58:43}: warning: Value stored to 'Layers' during its initialization is never read         float Layers = STLFile.bz2/layerThickness;               ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(0@64"Value stored to 'Layers' during its initialization is never read302397467#18446744073709551615#0#1(21@64"Value stored to 'Layers' during its initialization is never read302397467#18446744073709551615#0#0(6@96"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m302393581#58#8#0#0#0"1(6@96"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m302393581#58#17#58#42#64"Value stored to 'Layers' during its initialization is never read6@96"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m302393581#58#8#0#0#10"Dead store0(19"Dead initialization0#0#96"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m8603377312#2370"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/SuperSkein_iPhoneViewController.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m"
+s302397467.560385
+e302397467.695050
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m:120:16: warning: Potential leak of an object allocated on line 120
+o                         intersect = [[Line2D alloc] initWithPointOne:CGPointMake(xa, ya) andPointTwo:CGPointMake(xb, yb)];
+o                                     ^
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m:131:17: warning: Potential leak of an object allocated on line 131
+o                                 intersect = [[Line2D alloc]initWithPointOne:CGPointMake(xa, ya) andPointTwo:CGPointMake(xb, yb)];
+o                                             ^
+o2 warnings generated.
+lSLF07#2@81"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302397467#302397467#0(645"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m:120:16: warning: Potential leak of an object allocated on line 120                         intersect = [[Line2D alloc] initWithPointOne:CGPointMake(xa, ya) andPointTwo:CGPointMake(xb, yb)];                                     ^/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m:131:17: warning: Potential leak of an object allocated on line 131                                 intersect = [[Line2D alloc]initWithPointOne:CGPointMake(xa, ya) andPointTwo:CGPointMake(xb, yb)];                                             ^2 warnings generated.2(0@49"Potential leak of an object allocated on line 120302397467#18446744073709551615#0#11(17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#104#2#104#2#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#106#2#106#2#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#106#2#106#2#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#107#3#107#3#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#107#3#107#3#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#108#4#108#4#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#108#4#108#4#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#110#4#110#4#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#110#4#110#4#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#117#5#117#5#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#117#5#117#5#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#4#120#4#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#4#120#4#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#16#120#100#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#16#0#0#0"1(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#16#120#100#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#120#16#120#100#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#121#9#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#0#0#0"2(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#121#19#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#11#121#19#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@266"Object allocated on line 120 is returned from a method whose name ('getZIntersectWithLevel:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#0#0#0"1(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#121#9#266"Object allocated on line 120 is returned from a method whose name ('getZIntersectWithLevel:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#121#4#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@49"Potential leak of an object allocated on line 131302397467#18446744073709551615#0#10(17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#104#2#104#2#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#106#2#106#2#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#106#2#106#2#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#107#3#107#3#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#107#3#107#3#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#125#4#125#4#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#125#4#125#4#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#127#5#127#5#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#127#5#127#5#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#5#131#5#17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#5#131#5#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#17#131#100#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#17#0#0#0"1(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#17#131#100#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#0"0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#0#0#0#0#1(3@6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#131#17#131#100#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#132#10#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#0#0#0"2(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#132#20#6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#12#132#20#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@266"Object allocated on line 131 is returned from a method whose name ('getZIntersectWithLevel:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)302397467#18446744073709551615#0#0(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#0#0#0"1(6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#132#10#266"Object allocated on line 131 is returned from a method whose name ('getZIntersectWithLevel:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302390590#132#5#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m8602861024#2324"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/Triangle.plist"0#
+
+CAnalyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m"
+s302385171.801790
+e302385171.971194
+r1
+xAnalyze
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m
+lSLF07#2@69"Analyze /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m302385171#302385172#0(0"0(0#0#61"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m8637234432#2308"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch --analyze "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302997641#302997641#0(0"0(0#1#0"8639604320#0"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/ChooseFileController.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302997641.981932
+e302997642.143260
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/ChooseFileController.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m: In function '-[ChooseFileController tableView:didSelectRowAtIndexPath:]':
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: 'UIViewController' may not respond to '-saveFileSelectionWithFilepath:'
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: (Messages without a matching method signature
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: will be assumed to return 'id' and accept
+o/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: '...' as arguments.)
+lSLF07#2@93"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m302997641#302997642#0(738"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m: In function '-[ChooseFileController tableView:didSelectRowAtIndexPath:]':/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: 'UIViewController' may not respond to '-saveFileSelectionWithFilepath:'/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: (Messages without a matching method signature/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: will be assumed to return 'id' and accept/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m:42: warning: '...' as arguments.)2(22@71"'UIViewController' may not respond to '-saveFileSelectionWithFilepath:'302997642#161#171#0(6@85"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m302997626#42#0#42#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302997642#332#145#0(6@85"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m302997626#42#0#42#0#0"0(0#0#85"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m8639961120#2339"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/ChooseFileController.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/ChooseFileController.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Everything.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302661199.936721
+e302661200.072885
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Everything.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m302661199#302661200#0(0"0(0#0#75"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m8635138848#2319"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Everything.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Everything.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Line2D.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302661199.822561
+e302661199.936614
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Line2D.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m302661199#302661199#0(0"0(0#0#71"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m8632566400#2311"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Line2D.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Line2D.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Mesh.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302997214.972463
+e302997215.283550
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Mesh.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m302997214#302997215#0(0"0(0#0#69"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m8640439648#2307"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Mesh.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Mesh.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Slice.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302665040.365903
+e302665040.462797
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Slice.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m302665040#302665040#0(0"0(0#0#70"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m8633143104#2309"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Slice.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Slice.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneAppDelegate.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302997641.864114
+e302997641.981381
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneAppDelegate.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m302997641#302997641#0(0"0(0#0#93"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m8638684576#2355"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneAppDelegate.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneAppDelegate.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneViewController.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302997641.865343
+e302997642.069232
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneViewController.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m302997641#302997642#0(0"0(0#0#96"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m8638526592#2361"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/SuperSkein_iPhoneViewController.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein_iPhoneViewController.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Triangle.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302661199.698388
+e302661199.981194
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Triangle.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m302661199#302661199#0(0"0(0#0#73"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m8635274112#2315"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/Triangle.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/Triangle.o"0#
+
+CCompileC build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/main.o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302661196.048726
+e302661199.576181
+r1
+xCompileC
+xbuild/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/main.o
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m302661196#302661199#0(0"0(0#0#61"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m8634817536#2299"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -include /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/main.m" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/Classes/FilePicker.xib"
+r0
+
+CCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/FilePicker.xib"
+r0
+
+CCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib"
+s302385157.224106
+e302385163.376092
+r1
+xCompileXIB
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib302385157#302385163#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#69"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib32651569751457900#634"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/MainWindow.nib" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib"
+s302997214.026126
+e302997214.853585
+r1
+xCompileXIB
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib
+lSLF07#2@46"CompileXIB SuperSkein_iPhoneViewController.xib302997214#302997214#0(0"0(0#0#90"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib8640188704#676"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein_iPhoneViewController.nib" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhoneViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/SuperSkein-iPhone.app/DNAmodel.stl DNAmodel.stl
+s302406995.824869
+e302406995.866194
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SuperSkein-iPhone.app/DNAmodel.stl
+xDNAmodel.stl
+lSLF07#2@17"Copy DNAmodel.stl302406995#302406995#0(0"0(0#0#67"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/DNAmodel.stl12666846405263460#520"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/DNAmodel.stl" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app"0#
+
+CCpResource build/Debug-iphonesimulator/SuperSkein-iPhone.app/basic-whistle.stl basic-whistle.stl
+s302409303.689944
+e302409303.744374
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SuperSkein-iPhone.app/basic-whistle.stl
+xbasic-whistle.stl
+lSLF07#2@22"Copy basic-whistle.stl302409303#302409303#0(0"0(0#0#72"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/basic-whistle.stl8604298496#525"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/basic-whistle.stl" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app"0#
+
+CGenerateDSYMFile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM" "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone"
+s302997642.172164
+e302997642.233305
+r1
+xGenerateDSYMFile
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone302997642#302997642#0(0"0(0#0#122"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone8639791904#467"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone" -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app.dSYM"0#
+
+CLd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone" normal i386
+s302997642.143360
+e302997642.172058
+r1
+xLd
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone
+xnormal
+xi386
+lSLF07#2@127"Link /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone302997642#302997642#0(0"0(0#0#0"8639806432#1040"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" -filelist "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/Objects-normal/i386/SuperSkein-iPhone.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/SuperSkein-iPhone"0#
+
+CProcessInfoPlistFile "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/Info.plist" SuperSkein_iPhone-Info.plist
+s302989662.472986
+e302989662.548169
+r1
+xProcessInfoPlistFile
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/Info.plist
+xSuperSkein_iPhone-Info.plist
+lSLF07#2@36"Process SuperSkein_iPhone-Info.plist302989662#302989662#0(0"0(0#0#83"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone-Info.plist8638804160#563"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SuperSkein_iPhone-Info.plist -genpkginfo "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app/Info.plist"0#
+
+CProcessPCH /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch.pth SuperSkein_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s302385163.467283
+e302385169.816740
+r1
+xProcessPCH
+x/var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch.pth
+xSuperSkein_iPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@39"Precompile SuperSkein_iPhone_Prefix.pch302385163#302385169#0(0"0(0#0#83"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone_Prefix.pch8642253888#2154"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone_Prefix.pch" -o /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-bgmanagrpgvzajfmgiubcxqjsbge/SuperSkein_iPhone_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch.gch SuperSkein_iPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302385163.449187
+e302385170.961494
+r1
+xProcessPCH
+x/var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch.gch
+xSuperSkein_iPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile SuperSkein_iPhone_Prefix.pch302385163#302385170#0(0"0(0#0#83"/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone_Prefix.pch8643335904#2163"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-generated-files.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-own-target-headers.hmap" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-all-target-headers.hmap" -iquote "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/SuperSkein-iPhone-project-headers.hmap" "-F/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/include" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources/i386" "-I/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/SuperSkein-iPhone.build/Debug-iphonesimulator/SuperSkein-iPhone.build/DerivedSources" -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/SuperSkein_iPhone_Prefix.pch" -o /var/folders/m4/m49IVrVHHsm4Hsy8xqzrJk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SuperSkein_iPhone_Prefix-daadepxgpykxeianjyvsztksmroe/SuperSkein_iPhone_Prefix.pch.gch0#
+
+CTouch "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app"
+s302997642.233440
+e302997642.237807
+r1
+xTouch
+x/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app
+lSLF07#2@110"Touch /Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app302997642#302997642#0(0"0(0#0#0"8639550912#324"    cd "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Kyle/Documents/xcode projects/SuperSkein-iPhone/build/Debug-iphonesimulator/SuperSkein-iPhone.app"0#
+

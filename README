@@ -1,1 +1,8 @@
 A version of SuperSkein written for the iPhone in Objective-C. The original SuperSkein is a simple STL slicer that outputs gcode for use in a Makerbot, RepRap, or similar. The current version only supports binary STL files.
+
+The code for SuperSkein was originally written by MaskedRetriever with help from revarbat.
+
+This code is licensed under a Creative Commons Attribution Share-Alike Open Source License: http://creativecommons.org/licenses/by-sa/3.0/
+Please attribute anything derived from this project to the author beak90 and use this URL to attribute it: http://github.com/beak90/SuperSkein-iPhone/
+
+For more information on this project and for up-to-date source, check out http://github.com/beak90/SuperSkein-iPhone/

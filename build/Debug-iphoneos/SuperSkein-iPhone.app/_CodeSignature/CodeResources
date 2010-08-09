@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>DNAmodel.stl</key>
+		<data>
+		e1Ztsk3t1E13FjKtTcnCDXzwDKc=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		gfbBB9ORD/MBU4G3y7YgvB41fkI=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>SuperSkein_iPhoneViewController.nib</key>
+		<data>
+		biMRTMcgDAuoS4fKy5VRNlObQwc=
+		</data>
+		<key>basic-whistle.stl</key>
+		<data>
+		CIlVp+X6SwXJgLP/YHo/1tthdhk=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		cBnz8/4z9Dnxd6JCwTdjNFJokWE=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

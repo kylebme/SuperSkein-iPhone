@@ -14,7 +14,7 @@
 
 - (id)initWithFile:(NSString*)filename {
 	if((self=[super init])) {
-		NSData *fileData = [[NSData alloc] initWithContentsOfFile:[[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:filename]];
+		NSData *fileData = [[NSData alloc] initWithContentsOfFile:filename];
 		b = malloc(fileData.length);
 		[fileData getBytes:b length:fileData.length];
 		Triangles = [[NSMutableArray alloc] initWithCapacity:9];
